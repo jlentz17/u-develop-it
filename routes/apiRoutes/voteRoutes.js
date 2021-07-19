@@ -50,3 +50,7 @@ router.post("/vote", ({ body }, res) => {
 
 
 module.exports = router;
+<<<<<<< HEAD
+=======
+
+>>>>>>> 4ab3ce43c04b06c02abfa3c3b362ffbdc43ac9f0
